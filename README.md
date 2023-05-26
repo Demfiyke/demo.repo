@@ -1,3 +1,3 @@
 # Demo
 
-ALX Git training start.
+ALX Git training started on 22 May 2023.
